@@ -25,18 +25,30 @@ Install the following Python packages:
 ```    
 pip install opencv-python    
 ```   
-```pip install numpy  ``` br  
-```pip install ultralytics  ```  
+```  
+pip install numpy   
+ ```  
+```  
+pip install ultralytics    
+```  
 Alternatively, use the provided requirements.txt:
 
 requirements.txt  
 
-```opencv-python```
-```numpy```
-```ultralytics```
+```  
+opencv-python  
+```
+```  
+numpy  
+```
+```  
+ultralytics  
+```
 Install all at once:
 
-```pip install -r requirements.txt      ```
+```  
+pip install -r requirements.txt
+  ```
 # ▶️ How to Use
 1. Clone or download this repository.
 
@@ -44,7 +56,9 @@ Install all at once:
 
 3. Run the main Python file:
 
-  ``` python human_scanner.py    ```
+  ```   
+python human_scanner.py   
+ ```
 
 4. A window will display your webcam feed with bounding boxes around detected humans.
 
@@ -66,7 +80,9 @@ Install all at once:
 # 🖼️ Example Output
 On-screen Output:
 
-```🧍 Detected Humans: 3```
+```  
+🧍 Detected Humans: 3  
+```
 
 Sample CSV Log (if enabled):
 
