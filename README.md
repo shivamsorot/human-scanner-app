@@ -106,5 +106,5 @@ To contribute:
 For major features, please open an issue first to discuss the proposed changes.
 
 # 📬 Contact
-Project Owner: Shivam Sorot
+Project Owner: Shivam Sorot   
 📧 Email: shivam29022000@gmail.com
