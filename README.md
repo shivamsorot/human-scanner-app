@@ -22,10 +22,10 @@ Whether you're building a smart security system, monitoring crowd density, or au
 # 🔧 Installation   
 Required Libraries   
 Install the following Python packages:   
-pip install opencv-python   
-pip install numpy   
-pip install ultralytics   
-Alternatively, use the provided requirements.txt:
+''' pip install opencv-python '''  
+''' pip install numpy   '''
+''' pip install ultralytics '''   
+Alternatively, use the provided '''requirements.txt ''':
 
 requirements.txt
 
