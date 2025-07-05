@@ -68,9 +68,9 @@ On-screen Output:
 
 Sample CSV Log (if enabled):
 
-Timestamp	Count
-2025-06-26 10:00 AM	4
-2025-06-26 10:05 AM	2
+| Timestamp	           | Count    |
+| 2025-06-26  10:00 AM | 4        |
+| 2025-06-26  10:05 AM | 2        |
 
 # 🔄 Comparison With Other Applications
 Feature	This Application ✅	Others ❌
