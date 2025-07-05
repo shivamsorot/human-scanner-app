@@ -68,7 +68,8 @@ On-screen Output:
 
 Sample CSV Log (if enabled):
 
-| Timestamp	           | Count    |
+| Timestamp	           | Count    |   
+|----------------------|----------|
 | 2025-06-26  10:00 AM | 4        |
 | 2025-06-26  10:05 AM | 2        |
 
