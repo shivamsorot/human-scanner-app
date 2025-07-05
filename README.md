@@ -19,12 +19,12 @@ Whether you're building a smart security system, monitoring crowd density, or au
 
 * 💻 Offline Functionality – works on any Python-enabled system with a webcam.
 
-# 🔧 Installation
-Required Libraries
-Install the following Python packages:
-pip install opencv-python
-pip install numpy
-pip install ultralytics
+# 🔧 Installation   
+Required Libraries   
+Install the following Python packages:   
+pip install opencv-python   
+pip install numpy   
+pip install ultralytics   
 Alternatively, use the provided requirements.txt:
 
 requirements.txt
