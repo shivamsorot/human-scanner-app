@@ -74,12 +74,13 @@ Sample CSV Log (if enabled):
 | 2025-06-26  10:05 AM | 2        |
 
 # 🔄 Comparison With Other Applications
-Feature	This Application ✅	Others ❌
-Uses latest YOLOv8	✅ Yes	❌ Often outdated
-Real-time webcam detection	✅ Yes	✅/❌ Varies
-Lightweight and fast	✅ Yes	❌ Slower
-Works completely offline	✅ Yes	❌ Often cloud-based
-Easy to modify/customize	✅ Yes	❌ Less flexible
+| Feature |	This Application ✅	| Others ❌  |   
+|---------|----------------------|------------|
+|Uses latest YOLOv8 |	✅ Yes |	❌ Often outdated |
+|Real-time webcam detection |	✅ Yes |	✅/❌ Varies |
+|Lightweight and fast |	✅ Yes |	❌ Slower |
+|Works completely offline |	✅ Yes |	❌ Often cloud-based |
+|Easy to modify/customize |	✅ Yes |	❌ Less flexible |
 
 # 🔮 Future Enhancements
 * 🧍‍♂️ Person tracking and heatmaps.
