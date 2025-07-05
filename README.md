@@ -25,7 +25,7 @@ Install the following Python packages:
 ```    
 pip install opencv-python    
 ```   
-```pip install numpy  ``` 
+```pip install numpy  ``` br  
 ```pip install ultralytics  ```  
 Alternatively, use the provided requirements.txt:
 
